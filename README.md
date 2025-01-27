@@ -1,4 +1,3 @@
-Fish Behavior Simulation - p5.js
 
 Description
 
@@ -7,6 +6,7 @@ Ce projet, développé avec la librairie p5.js, est une simulation interactive d
 
 
 Comportements Intégrés
+
 
 Six comportements peuvent être sélectionnés directement dans l'application pour les poissons normaux :
 
@@ -88,5 +88,3 @@ Prise en compte des interactions entre poissons (cohésion, séparation et align
 Technologies Utilisées
 
 p5.js : Bibliothèque JavaScript pour la création graphique et interactive.
-
-Installation
